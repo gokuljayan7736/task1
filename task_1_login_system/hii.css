@@ -1,0 +1,18 @@
+.result{
+    color:red;
+    text-align: center;
+}
+.logout{
+    letter-spacing: .4px;
+    font-weight: 700;
+    font-family: volta_modern_display75_bold,Arial,Verdana,Tahoma;
+    font-weight: 700;
+    line-height: 1.43;
+    cursor: pointer;
+    font-size: 14px;
+    color:black;
+    text-decoration: none;
+  }
+
+
+
